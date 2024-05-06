@@ -15,8 +15,8 @@ Length Teller is a simple web tool that allows you to determine the length of te
 - JavaScript
 
 ## Preview
+<img src="https://github.com/Cyber-Programer/LengthTeller/assets/125746506/761ab3f6-0535-4a04-b815-edb407bc3b96" width="500" height="600">
 
-![Length Teller Preview](preview.png)
 
 ## Getting Started
 
