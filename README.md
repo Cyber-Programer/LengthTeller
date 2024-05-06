@@ -27,7 +27,7 @@ To get started with Length Teller:
 
 ## Author
 
-- [Your Name](https://github.com/cyber-programer)
+- [Md SiFaT IsLaM](https://github.com/cyber-programer)
 
 Feel free to contribute or report issues!
 
