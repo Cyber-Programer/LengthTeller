@@ -1,6 +1,6 @@
 # Length Teller
 
-Length Teller is a simple web tool that allows you to determine the length of text entered into a textarea.
+Length Teller is a simple web tool that allows you to determine the length of text entered into a textbox.
 
 ## How to Use
 
@@ -22,8 +22,8 @@ Length Teller is a simple web tool that allows you to determine the length of te
 
 To get started with Length Teller:
 
-1. Clone this repository: `git clone https://github.com/your-username/length-teller.git`
-2. Open `index.html` in your web browser.
+1. open the link in your web browser.
+   - https://cyber-programer.github.io/LengthTeller/
 
 ## Author
 
@@ -31,6 +31,3 @@ To get started with Length Teller:
 
 Feel free to contribute or report issues!
 
-
-## website Link
-- https://cyber-programer.github.io/LengthTeller/
